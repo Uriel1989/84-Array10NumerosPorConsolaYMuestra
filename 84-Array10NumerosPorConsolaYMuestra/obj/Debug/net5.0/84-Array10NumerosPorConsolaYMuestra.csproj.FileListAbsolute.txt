@@ -1,0 +1,15 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\obj\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\obj\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\obj\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\obj\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\bin\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\bin\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\bin\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\bin\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\bin\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\bin\Debug\net5.0\ref\84-Array10NumerosPorConsolaYMuestra.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\bin\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\obj\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\obj\Debug\net5.0\ref\84-Array10NumerosPorConsolaYMuestra.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\obj\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\84-Array10NumerosPorConsolaYMuestra\obj\Debug\net5.0\84-Array10NumerosPorConsolaYMuestra.genruntimeconfig.cache
